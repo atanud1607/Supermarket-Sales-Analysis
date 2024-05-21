@@ -1,10 +1,9 @@
-Supermarket Sales Analysis Dashboard
+Project Title: Supermarket Sales Analysis Dashboard
 
 Description:
 This project involves the creation of an interactive dashboard in Microsoft Excel to analyze sales data from a supermarket chain. The dashboard provides insights into total sales revenue over time, sales variations across branches and product lines, payment type distributions, average transaction values, and the relationship between customer ratings and sales revenue. This project aims to help supermarket management make data-driven decisions to optimize operations and increase profitability.
 
 Business Questions Addressed:
-
 1. Total Sales Revenue Over Time:
 Objective: Determine the total sales revenue generated over a specific period.
 Approach: Aggregated sales data to calculate total revenue over time. Created line charts to visualize revenue trends and identify peak sales periods.
@@ -30,13 +29,11 @@ Objective: Investigate if there is a correlation between customer ratings and to
 Approach: Used scatter plots to visualize the relationship between customer ratings and sales revenue. Calculated the correlation coefficient to quantify the strength and direction of the relationship.
 
 Tools and Techniques Used:
-
 1. Microsoft Excel: Utilized for data cleaning, calculation of summary statistics, and creation of visualizations.
 2. Visualization Tools: Excel charts, including line charts, bar charts, pie charts, and scatter plots.
 3. Data Analysis: Pivot tables, correlation analysis, and percentage calculations to derive insights from the data.
 
 Key Insights:
-
 1. The dashboard provides a comprehensive overview of sales performance over time, highlighting trends and peak periods.
 2. Branch-wise and product line sales analysis reveals significant variations in sales performance, helping identify strengths and areas for improvement.
 3. Top-contributing product lines are easily identifiable, allowing for focused marketing and inventory strategies.
